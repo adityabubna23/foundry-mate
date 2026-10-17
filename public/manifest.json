@@ -1,0 +1,17 @@
+{
+  "name": "Foundry Mate",
+  "short_name": "FoundryMate",
+  "description": "Estimate the weight of solid and hollow metal cylinders",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0e17",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
